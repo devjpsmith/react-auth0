@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# React Auth0
+This is a really simple app that just contains login/logout functionality from Auth0. 
 ## Available Scripts
 
 In the project directory, you can run:
